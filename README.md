@@ -63,9 +63,13 @@ Este proyecto demuestra cómo los servicios de Azure pueden integrarse de manera
 Para obtener más información sobre los servicios utilizados en este proyecto, consulta los siguientes recursos:
 
 [Documentación de Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/ "Documentación de Azure Synapse Analytics")
+
 [Guía de Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/ "Guía de Azure Data Factory")
+
 [Documentación de Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql "Documentación de Azure SQL Database")
+
 [Tutorial de Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/ "Tutorial de Azure Key Vault")
+
 [Documentación de Azure Databricks](https://learn.microsoft.com/en-us/azure/databricks/ "Documentación de Azure Databricks")
 
 # CREACIÓN SYNAPSE ANALYTICS
